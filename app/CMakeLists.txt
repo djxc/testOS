@@ -18,7 +18,8 @@ add_library( # Sets the name of the library.
              # Provides a relative path to your source file(s).
              src/main/cpp/native-lib.cpp
              src/main/cpp/dj_com_jni_demo1.cpp
-             src/main/cpp/demo2.cpp
+             src/main/cpp/GeoRelation
+             src/main/cpp/GeoRela.cpp
              )
 
 # Searches for a specified prebuilt library and stores the path as a
